@@ -1,1 +1,1 @@
-# SalesReportDashboard via Power BI
+# Sales Report Dashboard via Power BI
